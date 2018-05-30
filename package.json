@@ -1,0 +1,18 @@
+{
+  "name": "housing-data-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.247.1",
+    "crossfilter": "^1.3.12",
+    "json-to-pivot-json": "^1.0.1",
+    "lambda-local": "^1.4.8",
+    "pg": "^7.4.3"
+  }
+}
